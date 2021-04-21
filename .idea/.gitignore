@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../o1-jdbc-intro\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\lulch\Downloads\code-with-gradle\o1-jdbc-intro\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
